@@ -1,0 +1,5 @@
+export PATH="~/work/phabricator/ARC/arcanist/bin::~/Library/Python/3.6/bin:$PATH"
+#export PS1="\u@\h\w (DRAG EMOJI HERE)$ "
+export PS1='Junaid-MacBookPro'
+export PS1="$PS1:\[\033[0;90m\]\w\[\033[m\] $ ➤ "
+alias jerry='mosh xgrid@172.31.104.4'
